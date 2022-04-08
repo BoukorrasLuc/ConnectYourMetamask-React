@@ -8,4 +8,4 @@ I have used these packages :
 
 ## Screenshots
 
-![Screenshot PNG](./Preview/Preview.PNG)
+![Screenshot PNG](./Preview/Preview.png)
